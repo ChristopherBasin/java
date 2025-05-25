@@ -1,7 +1,7 @@
 Hello, I am Christopher John R. Basin and together with Maria Rica Dean M. Banaag, we created a Car Security
 System application where the user (The security guard of the subdivision), can scan if the approaching
-vehicle is registered or is a resident of Victor's Subdivision. It uses database(MySQL) to store, or get
-information of the car plates. It is a simple design that can help the user tract cars going inside the 
+vehicle is registered or is a resident of Victor's Subdivision. It uses database(MySQL) to store or get
+information about the car plates. It is a simple design that can help the user track cars going inside the 
 subdivision and enhance security measures.
 
 How to run: 
@@ -19,6 +19,12 @@ ScanWindow
 
 RegisterWindow
 ![image](https://github.com/user-attachments/assets/d2a8e778-9d86-4544-a0dd-ea532bb0a631)
+
+Recording:
+
+
+https://github.com/user-attachments/assets/54f9ada6-6e2d-44cb-8d7d-cc215ab46e88
+
 
 
 
